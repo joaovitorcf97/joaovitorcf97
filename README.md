@@ -1,1 +1,1 @@
-:smiley: # Hellow, I'm João Vitor!
+# Hellow, I'm João Vitor! :smiley:
