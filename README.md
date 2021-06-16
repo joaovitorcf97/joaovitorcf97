@@ -1,7 +1,6 @@
 <h1 align="center">Hi friends <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vitor!</h1>
 
-<details open>
-  <summary>🚀 <b>Skills</b>:</summary>
+## 🚀 Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -15,7 +14,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-</details>
 
 <p align="center">
     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorcf97&hide=html&layout=compact&&show_icons=true&theme=radical" />
