@@ -1,6 +1,6 @@
 <h1 align="center">Hi friends <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Vitor!</h1>
 
-## 🚀 Skills
+<h3>🚀 Skills</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
