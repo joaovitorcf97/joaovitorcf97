@@ -20,3 +20,5 @@
 <p align="center">
     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorcf97&hide=html&layout=compact&&show_icons=true&theme=radical" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=joaovitorcf97&style=flat-square&color=blueviolet)
