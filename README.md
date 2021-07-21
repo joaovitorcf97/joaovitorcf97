@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/react-%2335495e.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Next.js%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/react_native%20-%2335495e.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
