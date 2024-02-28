@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm João Vitor! 👋
 
 <!--
 **joaovitorcf97/joaovitorcf97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
