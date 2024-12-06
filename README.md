@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 Weekly development stats
+## 📊 Monthly development statistics
 
 <!--START_SECTION:waka-->
 
