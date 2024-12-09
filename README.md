@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 November 2024 - To: 06 December 2024
+From: 07 November 2024 - To: 07 December 2024
 
-Total Time: 2 hrs 29 mins
+Total Time: 6 hrs 35 mins
 
-Dart       2 hrs 28 mins   █████████████████████████   99.37 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Dart          6 hrs 34 mins   █████████████████████████   99.69 %
+Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
