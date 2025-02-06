@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 January 2025 - To: 03 February 2025
+From: 05 January 2025 - To: 04 February 2025
 
-Total Time: 80 hrs 24 mins
+Total Time: 84 hrs 20 mins
 
-Dart              69 hrs 25 mins  █████████████████████▓░░░   86.10 %
-JavaScript        3 hrs 56 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-TypeScript        3 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-Markdown          52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Groovy            45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Dart              73 hrs 19 mins  █████████████████████▓░░░   86.70 %
+JavaScript        3 hrs 58 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+TypeScript        3 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Markdown          52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Groovy            45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
